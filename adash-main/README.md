@@ -1,2 +1,0 @@
-# adash
-AZHly Admin Dashboard
